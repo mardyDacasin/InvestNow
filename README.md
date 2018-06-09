@@ -57,7 +57,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Mardy Dacasin** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Mardy Dacasin** 
 
 
 ## License
